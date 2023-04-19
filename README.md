@@ -49,7 +49,7 @@ sudo apt  install python3-pip
 
 ## Start the Flask
 
-# Run Flask in the celestiaapp folder where the app.py file is located.
+### Run Flask in the celestiaapp folder where the app.py file is located.
 
 ``` flask run ```
 
