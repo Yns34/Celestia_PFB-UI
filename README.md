@@ -30,8 +30,11 @@ sudo apt  install python3-pip
 ## Creating a virtual environment and activating
 
 ``` mkdir celestiaapp ```
+
 ``` cd celestiaapp ```
+
 ``` cpython3 -m venv ```
+
 ``` source venv/bin/activate ```
 
 ## Download the add_block.py app.py index.html
